@@ -1,4 +1,3 @@
-mt7621
 
 ```bash
 Target: mipsel-openwrt-linux-uclibc

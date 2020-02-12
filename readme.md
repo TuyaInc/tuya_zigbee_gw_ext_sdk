@@ -29,9 +29,9 @@ make
 * linux-ubuntu-6.2.0_64Bi
 
 
-### IPQ4019
+### Qualcomm
 
-* arm_cortex-a7_gcc-5.2.0_uClibc-1.0.14_eabi
+* arm_cortex-a7_gcc-5.2.0_uClibc-1.0.14_eabi for IPQ4019
 
 ### Hisilicon
 
@@ -44,13 +44,13 @@ make
 
 ### nuvoton
 
-* arm-nuvoton-linux-uclibceabi
+* arm-nuvoton-linux-uclibceabi for N32926
 
 ### MTK
 
 * mipsel_24kc_gcc-6.3.0_musl-1.1.16 for MT7621 
 
-* mipsel-openwrt-linux-uclibc-0.9.33.2-gcc-4.8.3
+* mipsel-openwrt-linux-uclibc-0.9.33.2-gcc-4.8.3 for MT7621
 
 
 ### ECONET

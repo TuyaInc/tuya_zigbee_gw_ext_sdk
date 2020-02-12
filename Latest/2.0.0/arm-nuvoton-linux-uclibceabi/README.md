@@ -1,4 +1,3 @@
-Nuvoton N32926
 
 ```bash
 Target: arm-nuvoton-linux-uclibceabi

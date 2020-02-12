@@ -1,4 +1,3 @@
-IPQ4019
 
 ```bash
 COLLECT_GCC=./arm-openwrt-linux-gcc
