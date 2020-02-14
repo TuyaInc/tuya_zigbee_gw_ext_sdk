@@ -2,10 +2,20 @@
 
 ## overview
 
+tuya_zigbee_gw_ext_sdk is an integrated library&APIs, primarily for developing gateway products: Zigbee gateway, ZWAVE gateway and so on.
+
+
 feature :
 
+* support many zigbee sub-devices, meanwhile developer extend to support their zigbee device or other type gateway product such as ZWAVE, 433 gateway.
 * Register to Tuya Cloud platform.
-* Realtime preview via Tuya Smart APP
+* Realtime control sub-devices via Tuya Smart APP
+
+| SDK package     |  explain        |
+|---------------|-----------------------|
+|tuya_zigbee_gw_ext_sdk_<version>_pegasus_<toolchain name>.tar.gz | pegasus + wired  |
+|tuya_zigbee_gw_ext_sdk_<version>_wifi_<toolchain name>.tar.gz  | wifi gateway |
+|tuya_zigbee_gw_ext_sdk_<version>_wifi_wired_<toolchain name>.tar.gz | wired + WIFI gateway |
 
 ## how to use
 
@@ -28,7 +38,6 @@ make
 
 * linux-ubuntu-6.2.0_64Bi
 
-
 ### Qualcomm
 
 * arm_cortex-a7_gcc-5.2.0_uClibc-1.0.14_eabi for IPQ4019
@@ -40,7 +49,6 @@ make
 ### REALTEK rtl819x
 
 * mips-linux-uclibc-gcc-4.4.7
-
 
 ### nuvoton
 
