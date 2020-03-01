@@ -40,7 +40,10 @@ make
 
 ### Qualcomm
 
+
 * arm_cortex-a7_gcc-5.2.0_uClibc-1.0.14_eabi for IPQ4019
+
+* mips-openwrt-linux-gnu-gcc-5.4.0 for QCA9531
 
 ### Hisilicon
 
