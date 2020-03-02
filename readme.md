@@ -13,6 +13,7 @@ feature :
 
 | SDK package     |  explain        |
 |---------------|-----------------------|
+|tuya_zigbee_gw_ext_sdk_<version>_<toolchain name>.tar.gz | wired  |
 |tuya_zigbee_gw_ext_sdk_<version>_pegasus_<toolchain name>.tar.gz | pegasus + wired  |
 |tuya_zigbee_gw_ext_sdk_<version>_wifi_<toolchain name>.tar.gz  | wifi gateway |
 |tuya_zigbee_gw_ext_sdk_<version>_wifi_wired_<toolchain name>.tar.gz | wired + WIFI gateway |
