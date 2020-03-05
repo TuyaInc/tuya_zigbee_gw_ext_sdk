@@ -1,4 +1,13 @@
 
+| SDK package     |  explain        |
+|---------------|-----------------------|
+|tuya_zigbee_gw_ext_sdk_<version>_<toolchain name>.tar.gz | wired  |
+|tuya_zigbee_gw_ext_sdk_<version>_pegasus_<toolchain name>.tar.gz | pegasus + wired  |
+|tuya_zigbee_gw_ext_sdk_<version>_wifi_<toolchain name>.tar.gz  | wifi gateway |
+|tuya_zigbee_gw_ext_sdk_<version>_wifi_wired_<toolchain name>.tar.gz | wired + WIFI gateway |
+
+
+
 ```bash
 COLLECT_GCC=./arm-openwrt-linux-gcc
 COLLECT_LTO_WRAPPER=/data/toolchain_Git/arm_cortex-a7_gcc-5.2.0_uClibc-1.0.14_eabi/toolchain/toolchain-arm_cortex-a7_gcc-5.2.0_uClibc-1.0.14_eabi/bin/../libexec/gcc/arm-openwrt-linux-uclibcgnueabi/5.2.0/lto-wrapper
