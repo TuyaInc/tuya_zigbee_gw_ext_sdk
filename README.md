@@ -29,9 +29,9 @@ SDK Package
 
 | Package Name                                                 | Description          |
 | ------------------------------------------------------------ | -------------------- |
-| tuya_zigbee_gw_ext_sdk_\<version\>_wired_\<toolchain\>.tar.gz  | Wired Gateway        |
-| tuya_zigbee_gw_ext_sdk_\<version\>_wifi_\<toolchain\>.tar.gz   | WiFi Gateway         |
-| tuya_zigbee_gw_ext_sdk_\<version\>_wifi_wired_\<toolchain\>.tar.gz | WiFi + Wired Gateway |
+| tuya_zigbee_gw_ext_sdk_\<version\>\_wired\_\<toolchain\>.tar.gz  | Wired Gateway        |
+| tuya_zigbee_gw_ext_sdk_\<version\>\_wifi\_\<toolchain\>.tar.gz   | WiFi Gateway         |
+| tuya_zigbee_gw_ext_sdk_\<version\>\_wifi_wired\_\<toolchain\>.tar.gz | WiFi + Wired Gateway |
 
 Supported Platforms  
 ===================  
