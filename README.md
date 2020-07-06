@@ -33,6 +33,11 @@ SDK Package
 | tuya_zigbee_gw_ext_sdk_\<version\>\_wifi\_\<toolchain\>.tar.gz   | WiFi Gateway         |
 | tuya_zigbee_gw_ext_sdk_\<version\>\_wifi_wired\_\<toolchain\>.tar.gz | WiFi + Wired Gateway |
 
+Production Testing  
+==================   
+
+You can download `Production Testing SDK` from https://github.com/TuyaInc/tuya_gw_pts_sdk.git. [Tuya Gateway Extension SDK Production Test description](https://docs.tuya.com/zh/iot/smart-product-solution/product-solutiongateway/gateway-extension-sdk-access-solution/tuya-gateway-extension-sdk-production-test-description?id=K9dudr9liqkgc) shows how to use it.
+
 Supported Platforms  
 ===================  
 
