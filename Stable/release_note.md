@@ -1,6 +1,6 @@
 Release notes:
 
-1.0.3
+1.0.3  
     - Fix hadn't call z3_dev_leave_cb function when device left
 
 1.0.2  
