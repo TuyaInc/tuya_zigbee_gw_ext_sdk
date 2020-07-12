@@ -1,5 +1,9 @@
 Release notes:
 
+1.0.4
+    - Fix storage path doesn't work  
+    - Add gateway active and operation mode api  
+
 1.0.3  
     - Fix hadn't call z3_dev_leave_cb function when device left
 
