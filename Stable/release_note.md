@@ -1,5 +1,9 @@
 Release notes:
 
+1.0.5
+    - Fix segmentfault caused by wrong uz_cfg   
+    - Add zigbee rf test tool   
+
 1.0.4
     - Fix storage path doesn't work  
     - Add gateway active and operation mode api  
