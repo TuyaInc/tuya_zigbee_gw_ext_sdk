@@ -32,37 +32,3 @@ SDK Package
 | tuya_zigbee_gw_ext_sdk_\<version\>\_wired\_\<toolchain\>.tar.gz  | Wired Gateway        |
 | tuya_zigbee_gw_ext_sdk_\<version\>\_wifi\_\<toolchain\>.tar.gz   | WiFi Gateway         |
 | tuya_zigbee_gw_ext_sdk_\<version\>\_wifi_wired\_\<toolchain\>.tar.gz | WiFi + Wired Gateway |
-
-Supported Platforms  
-===================  
-
-Ubuntu x64  
-----------  
-
-* linux-ubuntu-6.2.0_64Bit  
-
-Hisilicon  
----------  
-
-* arm-himix200-linux
-
-REALTEK  
--------  
-
-* mips-linux-uclibc-gcc-4.4.7 for RTL8197 
-* rsdk-4.6.4 for RTL8196
-
-MStar  
------  
-
-* gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabihf  
-
-新唐N32926  
-----------  
-
-* arm-nuvoton-linux-uclibceabi  
-
-MediaTek  
---------  
-
-* mipsel-openwrt-linux-uclibc-0.9.33.2-gcc-4.8.3
