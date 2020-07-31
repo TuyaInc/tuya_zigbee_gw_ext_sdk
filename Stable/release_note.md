@@ -1,5 +1,10 @@
 Release notes:  
 
+1.0.7  
+    - Fix smartconfig, zigbee, etc  
+    - Add crash dump tool  
+    - Add smartconfig api for developer  
+
 1.0.6  
     - Fix production mode doesn't work  
     - Add rtl8196e and rtl8197f hardware platform  
